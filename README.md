@@ -116,9 +116,6 @@ The project follows a modular architecture with clear separation of concerns:
 - [**Jathurshan Thadshanamoothy**](https://github.com/jathurT)
 - [**Pasindu Mallawarachi**](https://github.com/Pasinduimalsha)
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 - **University of Ruhuna, Department of Engineering**
 - Faculty advisors and mentors who provided guidance.
